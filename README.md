@@ -7,3 +7,5 @@
 ## interesting things in git
 1.I like the idea of version control in Git.
 2.git clone : this command can clone a repository from github online into a local computer
+## What I Learned
+-I am learning how Git and GitHub work together.
